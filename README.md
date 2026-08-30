@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ https://github.com/rogerlocarno/GenDr.-LocarnoBin’’’
 
-```bash $ cd Sdomin```
+```bash $ cd GenDr.-LocarnoBin```
 
 ```bash $ pip3 install -r requirements.txt```
 
